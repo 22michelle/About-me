@@ -10,7 +10,7 @@
 
 - 📚 Actualmente estoy aprendiendo acerca de desarrollo front-end, Back-end y aspiro a ser desarrollador full-stack.
 
-- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [CV](link)
+- 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [Portafolio web](link)
 
 ## Herramientas que controlo / me gustaría trabajar 🧰
 
