@@ -12,7 +12,7 @@
 
 - 👨‍💻 Disponible para trabajar tanto en desarrollo de software como en desarrollo web, aquí está mi [Portafolio web](link)
 
-- Mi cuenta de LinkedIn: 👉 [LinkedInd](https://www.linkedin.com/in/michelle-mej%C3%ADa-parra-072148242/)
+- Mi cuenta de LinkedIn: 👉 [Michelle](https://www.linkedin.com/in/michelle-mej%C3%ADa-parra-072148242/)
 
 ## Herramientas que controlo / me gustaría trabajar 🧰
 
