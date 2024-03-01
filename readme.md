@@ -42,7 +42,7 @@
 
   ![LinkedIN](https://img.shields.io/badge/LinkedIN-100000?style=for-the-badge&logo=LinkedIN&logoColor=white)
 
-## Habilidades blandas 😊
+## Habilidades
 
 - ✨ Altas capacidades de liderazgo e interacciòn con mis comprañeros
 - ❤️ Pasión por aprender y compartir mis conocimientos con otros
